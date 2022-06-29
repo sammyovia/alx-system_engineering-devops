@@ -1,0 +1,29 @@
+total 131
+drwx------ 2 u0_a314 u0_a314  3488 Jun 29 12:29 .
+drwx------ 7 u0_a314 u0_a314  3488 Jun 28 21:38 ..
+-rw------- 1 u0_a314 u0_a314 12288 Jun 28 21:38 .0-hello_world.swp
+-rw------- 1 u0_a314 u0_a314 12288 Jun 28 21:38 .7-file.swp
+-rw------- 1 u0_a314 u0_a314 12288 Jun 28 21:38 .Write.swp
+-rwx------ 1 u0_a314 u0_a314    41 Jun 28 21:38 0-hello_world
+-rwx------ 1 u0_a314 u0_a314    28 Jun 28 21:38 1-confused_smiley
+-rwx------ 1 u0_a314 u0_a314    49 Jun 28 21:38 10-no_more_js
+-rwx------ 1 u0_a314 u0_a314    20 Jun 28 21:38 11-directories
+-rwx------ 1 u0_a314 u0_a314    33 Jun 28 21:38 12-newest_files
+-rwx------ 1 u0_a314 u0_a314    34 Jun 28 21:38 14-findthatword
+-rwx------ 1 u0_a314 u0_a314    36 Jun 28 21:38 15-countthatword
+-rwx------ 1 u0_a314 u0_a314    41 Jun 28 21:38 16-whatsnext
+-rwx------ 1 u0_a314 u0_a314    38 Jun 28 21:38 17-hidethisword
+-rwx------ 1 u0_a314 u0_a314    28 Jun 28 21:38 2-hellofile
+-rwx------ 1 u0_a314 u0_a314    19 Jun 28 21:38 20-hiago
+-rwx------ 1 u0_a314 u0_a314    16 Jun 28 21:38 21-reverse
+-rwx------ 1 u0_a314 u0_a314    39 Jun 28 21:38 3-twofiles
+-rwx------ 1 u0_a314 u0_a314    35 Jun 28 21:38 4-lastlines
+-rwx------ 1 u0_a314 u0_a314    35 Jun 28 21:38 5-firstlines
+-rwx------ 1 u0_a314 u0_a314    41 Jun 28 21:38 6-third_line
+-rwx------ 1 u0_a314 u0_a314    76 Jun 28 21:38 7-file
+-rwx------ 1 u0_a314 u0_a314    36 Jun 28 21:38 8-cwd_state
+-rw------- 1 u0_a314 u0_a314     1 Jun 28 21:38 Hello, World
+-rw------- 1 u0_a314 u0_a314    10 Jun 28 21:38 README.md
+-rw------- 1 u0_a314 u0_a314    40 Jun 28 21:38 \*\'Best
+-rw------- 1 u0_a314 u0_a314   492 Jun 28 21:38 iacta
+-rw------- 1 u0_a314 u0_a314     0 Jun 29 12:29 ls_cwd_content
