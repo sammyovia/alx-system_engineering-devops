@@ -1,4 +1,2 @@
 #!/bin/bash
-touch iamfile /tmp/
-file /tmp/iamfile
-
+touch iamfile /tmp/ file /tmp/iamfile
