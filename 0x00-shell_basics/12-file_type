@@ -1,4 +1,3 @@
 #!/bin/bash
 touch iamfile /tmp/
 file /tmp/iamfile
-
