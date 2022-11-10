@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This is a bash script that displays Holberton School 10x using Until
+# This is a bash script that displays Best School 10x using Until
 until ((i == 10)); do
 echo "Best School"
 ((i++))
