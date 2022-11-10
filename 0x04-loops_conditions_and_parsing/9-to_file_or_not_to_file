@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# bash script that gives you info about the holbertonschool file
-i="holbertonschool"
+# bash script that gives you info about the school file
+i="school"
 if [ ! -e $i ]
 then
     echo "$i file does not exist"
