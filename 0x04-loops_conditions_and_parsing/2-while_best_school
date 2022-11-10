@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This script is using a while loop to print Holberton School 10x
+# This script is using a while loop to print Best School 10x
 while ((i < 10)); do
-echo "Holberton School"
+echo "Best School"
 ((i++))
 done

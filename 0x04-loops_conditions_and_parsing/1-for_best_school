@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# this script is displaying "Holberton School" 1-x
+# this script is displaying "Best School" 10x
 for ((i = 0; i < 10; i++)); do echo "Best School"; done
