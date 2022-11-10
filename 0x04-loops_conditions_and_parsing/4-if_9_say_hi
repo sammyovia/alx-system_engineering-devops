@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# This displays Holberton School 10x with an additional 'Hi' at 9th iteration
+# This displays Best School 10x with an additional 'Hi' at 9th iteration
 while ((i < 10)); do
-echo "Holberton School"
+echo "Best School"
 ((i++))
 if ((i == 9))
 then
