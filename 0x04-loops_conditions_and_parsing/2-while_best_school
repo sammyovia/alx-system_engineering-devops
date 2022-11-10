@@ -1,6 +1,3 @@
 #!/usr/bin/env bash
+while ((i < 10)); do echo "Best School"((i++)) done
 # This script is using a while loop to print Holberton School 10x
-while ((i < 10)); do
-echo "Holberton School"
-((i++))
-done
