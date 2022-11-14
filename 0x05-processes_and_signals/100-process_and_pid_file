@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # creates a pid, displays strings indefinitely, deletes the PID and terminates
-echo $$ > /var/run/holbertonscript.pid
+echo $$ > /var/run/myscript.pid
 while true; do
 echo "To infinity and beyond"
 trap "echo 'I hate the kill command'" SIGTERM
