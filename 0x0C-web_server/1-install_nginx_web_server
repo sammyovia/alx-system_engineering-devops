@@ -11,4 +11,7 @@ printf %s "server {
     root		/var/www/html;
     index		index.html index.htm index.nginx-debian.html;
 }"
+> /etc/nginx/sites-available/default
+
 service nginx start
+
